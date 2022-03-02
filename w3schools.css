@@ -1,0 +1,36 @@
+<style>
+.heading1 {
+    color: red;
+    font-weight:700;
+    font-size: 35px;
+}
+.heading2 {
+    color: blue;
+    font-weight:700;
+    font-size: 30px;
+}
+
+blockquote {background: #000;color:#fff;
+  border-left: 10px solid #04AA6D;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";font-family:monospace}
+
+.padding .code {
+	background-color:white;
+  border-left: 10px solid #04AA6D;
+}
+
+pre code {
+  background-color: #fdd;
+  border: 1px solid #999;
+  display: block;}
+
+.padding {background-color:#ddd;padding:15px;border-radius:10px}
+.warn {background-color:#fdd;padding:15px;border-radius:10px}
+.warn .code {
+	background-color:white;
+  border-left: 10px solid #f00;
+}
+
+</style>
